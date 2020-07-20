@@ -1,0 +1,15 @@
+1.What is Python?What are the different ways to install in your PC?
+A) Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. It was created by Guido van Rossum during 1985- 1990.
+
+Ways to install:
+
+-->From the Python Software Foundation website at python.org
+-->From the anaconda navigator.
+
+2.What are code environments and types?
+A) A code environment is a standalone and self-contained environment to run Python. Each code environment has its own set of packages.
+
+Types:
+*Text-Editors
+* IDEs
+* Notebook Environments
